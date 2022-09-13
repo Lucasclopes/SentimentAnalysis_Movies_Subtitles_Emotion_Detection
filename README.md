@@ -14,7 +14,7 @@
 A randomly sampled subset of the XED dataset for multiclass emotion detection, which consists of English movie subtitles from OPUS corpus1 annotated with emotional polarity and discrete emotions,  was used.
 
 The XED dataset originally contains multilabel annotations for discrete emotions, but to keepthings simpler, a single label dataset was provided, extracted from the English dataset, where each example looks like this:
-You will help our medical research and thereby saving thousands of lives . 8
+- You will help our medical research and thereby saving thousands of lives . 8
 
 The sentence and the label are separated by a tab character (\t), and the labels are mapped as follows:
 - 1: Anger
