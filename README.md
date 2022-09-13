@@ -17,14 +17,14 @@ The XED dataset originally contains multilabel annotations for discrete emotions
 You will help our medical research and thereby saving thousands of lives . 8
 
 The sentence and the label are separated by a tab character (\t), and the labels are mapped as follows:
-• 1: Anger
-• 2: Anticipation
-• 3: Disgust
-• 4: Fear
-• 5: Joy
-• 6: Sadness
-• 7: Surprise
-• 8: Trust
+- 1: Anger
+- 2: Anticipation
+- 3: Disgust
+- 4: Fear
+- 5: Joy
+- 6: Sadness
+- 7: Surprise
+- 8: Trust
 
 ## Steps
 - ### Importing the the data
