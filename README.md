@@ -7,7 +7,7 @@
 ## Important libraries and packages 
 - pandas, numpy
 - seaborn, matplotlib
-- nltk (Naturla Language Toolkit) - for ngrams, stopwords, lemmatizing and stemming
+- nltk (Natural Language Toolkit) - for ngrams, stopwords, lemmatizing and stemming
 - sklearn
 
 ## Data
